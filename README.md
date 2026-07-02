@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./github-banner.png.png" alt="Sumit Sharma Banner" width="100%">
+</p>
 # Hi, I'm Sumit Sharma
 
 ### Founder @ CloudRox | DevOps Engineer
