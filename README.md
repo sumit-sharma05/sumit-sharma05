@@ -1,6 +1,12 @@
 <p align="center">
   <img src="./github-banner.png.png" alt="Sumit Sharma Banner" width="100%">
 </p>
+<p align="center">
+  <a href="https://cloudrox.in"><strong>Website</strong></a> •
+  <a href="https://github.com/sumit-sharma05"><strong>GitHub</strong></a> •
+  <a href="mailto:contact@cloudrox.in"><strong>Email</strong></a> •
+  <a href="https://www.linkedin.com/in/sumit-sharma-b64352a4/"><strong>LinkedIn</strong></a>
+</p>
 # Hi, I'm Sumit Sharma
 
 ### Founder @ CloudRox | DevOps Engineer
