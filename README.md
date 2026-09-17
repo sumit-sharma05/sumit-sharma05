@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="./github-banner.png.png" alt="Sumit Sharma Banner" width="100%">
+  <img src="./ChatGPT%20Image%20Sep%2017,%202026,%2006_10_46%20PM.png"
+       alt="Sumit Kumar - Professional DevOps Engineer"
+       width="100%">
 </p>
 <p align="center">
   <a href="https://cloudrox.in"><strong>Website</strong></a> •
